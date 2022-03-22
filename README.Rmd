@@ -1,0 +1,10 @@
+---
+title: Core Assignment
+author: "Isabella Asselstine"
+output: html_document
+---
+
+knitr::opts_chunk$set(echo = TRUE)
+
+
+![Flow Chart](/Users/isabellaasselstine/Desktop/Assignment1flow.jpg)
